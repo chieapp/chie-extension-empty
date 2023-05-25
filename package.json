@@ -1,0 +1,15 @@
+{
+  "name": "chie-extension-empty",
+  "private": true,
+  "displayName": "Empty extension",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "18.x",
+    "chie": "../chie/types",
+    "typescript": "5.0.2"
+  }
+}
