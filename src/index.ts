@@ -1,2 +1,3 @@
-export function activate() {
-}
+export function activate() {}
+
+export function deactivate() {}
